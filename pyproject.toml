@@ -1,0 +1,26 @@
+[project]
+name = "frontier-mutators"
+version = "0.1.0"
+description = "Controlled stochastic parameter exploration for ComfyUI workflows"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+authors = [
+    { name = "Alice Kallista Saunier" },
+    { name = "Veyra", email = "veyra@alicepalace.net" },
+]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+]
+
+[project.urls]
+Repository = "https://github.com/veyra-core/comfyui-frontier-mutators"
+Documentation = "https://github.com/veyra-core/comfyui-frontier-mutators#readme"
+"Bug Tracker" = "https://github.com/veyra-core/comfyui-frontier-mutators/issues"
+
+[tool.comfy]
+PublisherId = "veyra-core"
+DisplayName = "Frontier Mutators"
