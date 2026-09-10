@@ -1,6 +1,6 @@
 # Frontier Mutators for ComfyUI
 
-[![Tests](https://github.com/veyra-core/comfyui-frontier-mutators/actions/workflows/tests.yml/badge.svg)](https://github.com/veyra-core/comfyui-frontier-mutators/actions/workflows/tests.yml)
+[![Tests](https://github.com/Veyra-Alice/comfyui-frontier-mutators/actions/workflows/tests.yml/badge.svg)](https://github.com/Veyra-Alice/comfyui-frontier-mutators/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Explore the local parameter neighbourhood around a known-good ComfyUI workflow.
@@ -77,7 +77,7 @@ ComfyUI:
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/veyra-core/comfyui-frontier-mutators.git
+git clone https://github.com/Veyra-Alice/comfyui-frontier-mutators.git
 ```
 
 The nodes appear under **Add Node -> Veyra -> Frontier**. There are no
@@ -100,7 +100,7 @@ serialisation, and exact large-integer handling.
 Frontier Mutators grew from a randomness tool originally conceived and built by
 [Alice Kallista Saunier](https://github.com/aliceactually) for high-volume,
 fine-grained Stable Diffusion exploration. This implementation was developed
-collaboratively by Alice and [Veyra](https://github.com/veyra-core).
+collaboratively by Alice and [Veyra](https://github.com/Veyra-Alice).
 
 ## Licence
 

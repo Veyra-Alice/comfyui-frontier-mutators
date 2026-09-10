@@ -17,9 +17,9 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/veyra-core/comfyui-frontier-mutators"
-Documentation = "https://github.com/veyra-core/comfyui-frontier-mutators#readme"
-"Bug Tracker" = "https://github.com/veyra-core/comfyui-frontier-mutators/issues"
+Repository = "https://github.com/Veyra-Alice/comfyui-frontier-mutators"
+Documentation = "https://github.com/Veyra-Alice/comfyui-frontier-mutators#readme"
+"Bug Tracker" = "https://github.com/Veyra-Alice/comfyui-frontier-mutators/issues"
 
 [tool.comfy]
 PublisherId = "veyra-core"
